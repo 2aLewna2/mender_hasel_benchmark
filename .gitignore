@@ -1,0 +1,9 @@
+# środowisko Pythona i pliki tymczasowe
+.venv/
+__pycache__/
+.DS_Store
+~$*
+
+# oryginalny arkusz zespołu (kopia) i surowe wyniki researchu — dane są w dane_ujednolicone.csv
+menedżer haseł - kopia.xlsx
+research/

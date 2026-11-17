@@ -1,0 +1,16 @@
+id;nazwa;grupa;skala;typ;waga
+K1;Wersja darmowa;Koszt;1-5;S;7
+K2;Cena planu płatnego [USD/rok];Koszt;ilościowa;D;10
+K3;Liczba platform;Funkcjonalność;ilościowa;S;7
+K5;Szyfrowanie E2E domyślnie;Bezpieczeństwo;0/1;S;12
+K6;Incydenty bezpieczeństwa (2015-2026);Bezpieczeństwo;ilościowa;D;12
+K7;Open source;Bezpieczeństwo;0/1;S;5
+K8;Niezależne audyty;Bezpieczeństwo;1-5;S;10
+K9;Przenoszenie danych;Funkcjonalność;1-5;S;4
+K10;Udostępnianie haseł;Funkcjonalność;1-5;S;5
+K11;Przejrzystość interfejsu;Doświadczenie użytkownika;1-5;S;6
+K12;Ocena w App Store / Google Play;Doświadczenie użytkownika;ilościowa;S;6
+K13;Metody 2FA do konta;Bezpieczeństwo;ilościowa;S;6
+K14;Wbudowany generator TOTP;Funkcjonalność;0/1;S;4
+K15;Dostęp awaryjny;Funkcjonalność;0/1;S;4
+K16;Język polski;Doświadczenie użytkownika;0/1;S;2
