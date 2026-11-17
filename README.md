@@ -18,6 +18,18 @@ wyłaniamy lidera i piszemy strategię dla najsłabszego (LastPass).
 | `narzedzia/raport.py` | generuje raport Word i wykresy w `wykresy/` |
 | `wykresy/` | wykresy PNG użyte w raporcie |
 
+## Pobranie projektu
+
+- **Bez gita / bez konta GitHub:** na stronie repo zielony przycisk **Code → Download ZIP**.
+- **Z gitem (inny komputer):**
+
+```bash
+git clone https://github.com/2aLewna2/mender_hasel_benchmark.git
+cd mender_hasel_benchmark
+```
+
+Przed pracą zawsze `git pull` (pobiera najnowsze zmiany), po pracy `git add .` → `git commit -m "opis"` → `git push`.
+
 ## Pierwsze uruchomienie (raz na komputer)
 
 Potrzebny Python 3.11+. W terminalu, w tym folderze:
