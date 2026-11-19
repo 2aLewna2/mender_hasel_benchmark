@@ -27,3 +27,10 @@ Lokalnie (Jupyter / VS Code): Excel musi leżeć w tym samym folderze co notatni
 - liczby i skala 1–5 → min-max: stymulanta `(x − min)/(max − min)`, destymulanta `(max − x)/(max − min)`
 - „Brak planu płatnego” w cenie → 1
 - wynik: `W = Σ waga · wynik × 100` (wagi sumują się do 1)
+
+## Dashboard (opcja plotly)
+
+Na końcu notatnika jest sekcja **7. Dashboard** z interaktywnymi wykresami (plotly):
+ranking z wyróżnionym liderem i najsłabszym, mapa wyników 0–1 oraz porównanie dwóch menedżerów
+(wkład punktowy każdego kryterium) z wyborem z listy. Działa w Colabie od razu.
+Podgląd notatnika na GitHubie nie pokazuje wykresów plotly, bo do tego trzeba go uruchomić w Colabie.
