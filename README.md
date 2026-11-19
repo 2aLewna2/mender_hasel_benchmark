@@ -33,5 +33,5 @@ Lokalnie (Jupyter / VS Code): Excel musi leżeć w tym samym folderze co notatni
 
 Na końcu notatnika jest sekcja **7. Dashboard** z interaktywnymi wykresami (plotly):
 ranking z wyróżnionym liderem i najsłabszym, mapa wyników 0–1 oraz porównanie dwóch menedżerów
-(wkład punktowy każdego kryterium) z wyborem z listy. Działa w Colabie od razu.
+(wkład punktowy każdego kryterium) (nazwy menedżerów wpisuje się na górze komórki). Działa w Colabie i w VS Code.
 Podgląd notatnika na GitHubie nie pokazuje wykresów plotly, bo do tego trzeba go uruchomić w Colabie.
